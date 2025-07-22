@@ -114,10 +114,10 @@ We process your personal data based on:
 **User Control:** You can opt-out of personalized ads in Privacy Settings  
 **Privacy Policy:** https://policies.google.com/privacy
 
-### 6.4 Google Maps Platform
-**Purpose:** Map display and location services  
-**Data Shared:** Location data for map functionality  
-**Privacy Policy:** https://policies.google.com/privacy
+### 6.4 Apple Maps (iOS)
+**Purpose:** Location autocomplete and address search functionality
+**Data Shared:** Search queries and location data for autocomplete suggestions
+**Privacy Policy:** https://www.apple.com/privacy/
 
 ### 6.5 Apple Services (iOS only)
 **Purpose:** App distribution, in-app purchases, push notifications  
