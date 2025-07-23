@@ -35,7 +35,9 @@ Users outside Hong Kong may experience limited functionality or relevance of cer
 ## 3. User Accounts and Registration
 
 ### 3.1 Account Creation
-To access certain features of StraySafe, you must create an account by providing accurate, current, and complete information. You are responsible for maintaining the confidentiality of your account credentials.
+To access certain features of StraySafe, you must create an account by providing accurate, current, and complete information. You may create an account using email/password, Google Sign-In, or Apple Sign-In. You are responsible for maintaining the confidentiality of your account credentials.
+
+When using Apple Sign-In, data linking is required to access core app functionalities. You will be presented with a consent modal explaining this requirement before proceeding. You may choose to use Apple's "Hide My Email" feature to keep your email address private while still allowing necessary data linking for service functionality.
 
 ### 3.2 Account Responsibilities
 You agree to:
@@ -113,7 +115,10 @@ Your privacy is important to us. Our collection and use of personal information 
 For users in Hong Kong, we comply with the Personal Data (Privacy) Ordinance (PDPO). You have rights regarding your personal data, including the right to access, correct, and delete your information.
 
 ### 7.3 Location Data
-StraySafe uses location services to provide location-based features. You can control location permissions through your device settings.
+StraySafe uses location services to provide location-based features. Location permission is requested only when you first use location features (user-initiated). You can control location permissions through:
+- Device settings (iOS/Android location permissions)
+- In-app Privacy Settings (enables/disables location tracking)
+- Location features respect both device permissions and Privacy Settings controls
 
 ## 8. Prohibited Uses
 
